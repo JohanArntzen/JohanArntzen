@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can solve a 4x4 Rubik's cube
 
 ## Socials   
-[![GitHub](https://img.shields.io/badge/GitHub-JohanArntzen-blue?style=flat&logo=github)](https://github.com/JohanArntzen)  
-[![Instagram](https://img.shields.io/badge/Instagram-Johan_Arntzen-red?style=flat&logo=instagram)](https://instagram.com/johan_arntzen)  
-[![Facebook](https://img.shields.io/badge/Facebook-Johan_Arntzen-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/johan.arntzen.96)
-[![Email](https://img.shields.io/badge/Email-Johan.A.Arntzen@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Johan.A.Arntzen@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-JohanArntzen-blue?style=flat&logo=github)](https://github.com/JohanArntzen)<br>
+[![Instagram](https://img.shields.io/badge/Instagram-Johan_Arntzen-red?style=flat&logo=instagram)](https://instagram.com/johan_arntzen)<br> 
+[![Facebook](https://img.shields.io/badge/Facebook-Johan_Arntzen-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/johan.arntzen.96)<br>
+[![Email](https://img.shields.io/badge/Gmail-Johan.A.Arntzen@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Johan.A.Arntzen@gmail.com)
 ## Languages and Tools   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) 
