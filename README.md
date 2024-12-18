@@ -29,7 +29,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanarntzen&show_icons=true&locale=en&layout=compact" alt="johanarntzen" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johanarntzen&show_icons=true&theme=dark&locale=en" alt="johanarntzen" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johanarntzen&" alt="johanarntzen" /></p>
